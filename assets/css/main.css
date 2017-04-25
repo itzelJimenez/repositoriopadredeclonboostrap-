@@ -1,6 +1,6 @@
 html,body{
 	height: 100%;
-	font-family:verdana;
+	font-family: Helvetica, Arial,sans-serif;
 	background-color: white;
 }
 a:hover{
@@ -50,4 +50,56 @@ a:hover{
 .portada{
     width: 100%;
     height: 100%;
+}
+#intermedia{
+  text-align: center;
+  font-family: inherit;
+}
+.h2SeccionInter {
+  font-size: 40px;
+  color: #333;
+}
+
+.h3SeccionInter {
+  font-size: 25px;
+  margin-bottom: 0;
+}
+.p1SeccionInter {
+  font-size: 20px;
+  width: 900px;
+  margin-left: 180px;
+}
+
+.pColor ,.h3Color{
+    color: #555;
+}
+.p{
+  margin-top: 0;
+  line-height: 1.5;
+}
+.seccionInter {
+  display: flex;
+}
+.lineaChiquita {
+  width: 100px;
+  margin: 40px auto;
+}
+
+.pFinal {
+  font-size: 20px;
+}
+
+.btnSeccionInter {
+  font-size: 18px;
+  padding: 12px;
+  margin-bottom: 100px;
+  border-radius: 10px;
+  background: white;
+  color: #563d7c;
+  border-color: #563d7c;
+}
+
+.btnSeccionInter:hover {
+  background: #563d7c;
+  color: white;
 }

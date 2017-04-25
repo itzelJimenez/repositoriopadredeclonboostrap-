@@ -1,0 +1,53 @@
+html,body{
+	height: 100%;
+	font-family:verdana;
+	background-color: white;
+}
+a:hover{
+	text-decoration: underline;
+}
+.justificar{
+	text-align: justify;
+}
+.link{
+	text-decoration: none;
+}
+.flotar{
+	float: left;
+}
+.flotarDer{
+	float: right;
+}
+.bck{
+	display: block;
+}
+.inline-bck{
+	display: inline-block;
+}
+.absoluto{
+	position: absolute;
+}
+.relativo{
+	position: relative;
+}
+.anchoBoton{
+	width:10%;
+}
+.letraBlanca{
+	color: white;
+}
+.tamañoFoto{
+	width: 20%;
+	height: 20%;
+}
+.centrarBtn{
+	margin-left: 41%;
+	margin-bottom: 5%;
+}
+.margenDer {
+	margin-right: 150px;
+}
+.portada{
+    width: 100%;
+    height: 100%;
+}

@@ -57,6 +57,8 @@ a:hover{
   font-family: inherit;
 }
 .h2SeccionInter {
+	margin-top: 100px;
+	margin-bottom: 0;
   font-size: 40px;
   color: #333;
 }
@@ -69,13 +71,14 @@ a:hover{
   font-size: 20px;
   width: 900px;
   margin-left: 180px;
+	margin-top: 10px;;
 }
 
 .pColor ,.h3Color{
     color: #555;
 }
 .p{
-  margin-top: 0;
+  margin: 0 0 10px;
   line-height: 1.5;
 }
 .seccionInter {
